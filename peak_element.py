@@ -3,6 +3,10 @@ The idea is based on the technique of Binary Search to check if the middle eleme
 or not. If the middle element is not the peak element, then check if the element on the right side is
 greater than the middle element then there is always a peak element on the right side. If the element 
 on the left side is greater than the middle element then there is always a peak element on the left side.
+
+Time Complexity - O(logn)
+Space Complexity- O(1)
+
 """
 
 
